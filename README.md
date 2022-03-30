@@ -1,29 +1,7 @@
 # Bulletin
 
-React App: https://bulletin-be82d.web.app/
-
-# TODO:
-
-- [ ] Design the app
-  - [ ] Work on functionality
-  - [ ] Figma draft
-- [ ] More boilerplate for devs
-  - [ ] Connect functions to firestore
-  - [ ] Provide CRUD examples of functions
-  - [ ] Make client use the provided functions
-- [ ] Improve dev documentation
-  - [ ] Node
-  - [ ] Firebase
-  - [ ] Taskfiles
-  - [ ] Project Structure
-- [ ] Implement auth
-- [ ] Implement .env
-- [x] Init client with CRA
-- [ ] Init Firebase
-- [x] Taskfile to automate the following:
-  - [x] Install dependencies
-  - [x] Client tasks
-  - [x] Firebase tasks
+Deployed Web-App
+Link: https://bulletin-be82d.web.app/
 
 # How to Setup
 
